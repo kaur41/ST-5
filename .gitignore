@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build results
+bin/
+obj/
+out/
+build/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
